@@ -45,59 +45,69 @@ When I'm not coding you'll find me out in nature or learning calisthenics. Long-
 ---
 
 ## 📱 &nbsp;My apps
-
+ 
 <table width="100%">
   <tr>
     <td align="center" width="20%" valign="top">
       <a href="https://asantinos.com">
-        <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/pump.webp" width="84" style="border-radius: 19px;" alt="Pump" />
+        <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/pump.webp" width="96" alt="pump." />
       </a>
-      <br />
+      <br /><br />
       <strong>pump.</strong>
       <br />
-      <sub>iOS / Android · WIP</sub>
+      <sub>iOS · Android</sub>
+      <br />
+      <sub><code>WIP</code></sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://github.com/asantinos/burnclaw">
-        <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/burnclaw.webp" width="84" style="border-radius: 19px;" alt="BurnClaw" />
+        <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/burnclaw.webp" width="96" alt="BurnClaw" />
       </a>
-      <br />
+      <br /><br />
       <strong>BurnClaw</strong>
       <br />
-      <sub>Windows · v0.1.0</sub>
+      <sub>Windows</sub>
+      <br />
+      <sub><code>v0.1.0</code></sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://dittotalks.com">
-        <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/ditto.webp" width="84" style="border-radius: 19px;" alt="Ditto" />
+        <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/ditto.webp" width="96" alt="Ditto" />
       </a>
-      <br />
+      <br /><br />
       <strong>Ditto</strong>
       <br />
-      <sub>Windows · v1.0.0</sub>
+      <sub>Windows</sub>
+      <br />
+      <sub><code>v1.0.0</code></sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://monked.asantinos.com">
-        <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/monked.webp" width="84" style="border-radius: 19px;" alt="Monked" />
+        <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/monked.webp" width="96" alt="Monked" />
       </a>
-      <br />
+      <br /><br />
       <strong>Monked</strong>
       <br />
-      <sub>iOS · v1.0.0</sub>
+      <sub>iOS</sub>
+      <br />
+      <sub><code>v1.0.0</code></sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://stride.asantinos.com">
-        <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/stride.webp" width="84" style="border-radius: 19px;" alt="Stride" />
+        <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/stride.webp" width="96" alt="Stride" />
       </a>
-      <br />
+      <br /><br />
       <strong>Stride</strong>
       <br />
-      <sub>iOS · v1.1.0</sub>
+      <sub>iOS</sub>
+      <br />
+      <sub><code>v1.1.0</code></sub>
     </td>
   </tr>
 </table>
-
-<sub><i>Tap any name above to peek inside →</i></sub>
-
+<div align="center">
+  <sub><i>Tap any icon to peek inside →</i></sub>
+</div>
 <br />
 
 ---
@@ -122,6 +132,8 @@ What I build with.
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="36" alt="JavaScript" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/express/000000/FFFFFF" height="36" alt="Express" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="36" alt="Node.js" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="36" alt="MongoDB" />
   &nbsp;&nbsp;
