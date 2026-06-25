@@ -68,7 +68,7 @@ When I'm not coding you'll find me out in nature or learning calisthenics. Long-
       <br />
       <sub>Windows</sub>
       <br />
-      <sub><code>v0.1.0</code></sub>
+      <sub><code>v1.0.0</code></sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://dittotalks.com">
