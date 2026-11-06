@@ -6,7 +6,9 @@
 
 # Hey, it's Álex 👋
 
-<b>Software Developer</b> · Spain
+<b>Software Developer</b> · Asturias, Spain
+
+<sub>Building apps & websites obsessed with UI/UX, motion and the small details that make a product feel alive.</sub>
 
 <br clear="left" />
 
@@ -36,19 +38,50 @@
 
 ## 🧱 &nbsp;Now
 
-Head-down building **pump.**
-
-When I'm not coding you'll find me out in nature or learning calisthenics. Long-term dream: train at a Shaolin temple in China. Always chasing the next 1%.
+Right now, I'm building **[RIQO](https://riqoagency.com)**, my web design & Shopify agency. I'm also exploring **digital privacy** and being more intentional about the tech I use. Away from the screen, you'll find me out in **nature** or working on my **calisthenics**.
 
 <br />
 
 ---
 
 ## 📱 &nbsp;My apps
- 
+
 <table width="100%">
   <tr>
-    <td align="center" width="20%" valign="top">
+    <td align="center" width="25%" valign="top">
+      <a href="https://geoduo.org/">
+        <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/geoduo.webp" width="96" alt="GeoDuo" />
+      </a>
+      <br /><br />
+      <strong>GeoDuo</strong>
+      <br />
+      <sub>Web</sub>
+      <br />
+      <sub><code>Released</code></sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://gresca.org/">
+        <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/gresca.webp" width="96" alt="Gresca" />
+      </a>
+      <br /><br />
+      <strong>Gresca</strong>
+      <br />
+      <sub>Web</sub>
+      <br />
+      <sub><code>Released</code></sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://asantinos.com">
+        <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/cratune.webp" width="96" alt="Cratune" />
+      </a>
+      <br /><br />
+      <strong>Cratune</strong>
+      <br />
+      <sub>iOS</sub>
+      <br />
+      <sub><code>TestFlight</code></sub>
+    </td>
+    <td align="center" width="25%" valign="top">
       <a href="https://asantinos.com">
         <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/pump.webp" width="96" alt="pump." />
       </a>
@@ -57,9 +90,11 @@ When I'm not coding you'll find me out in nature or learning calisthenics. Long-
       <br />
       <sub>iOS · Android</sub>
       <br />
-      <sub><code>WIP</code></sub>
+      <sub><code>On hold</code></sub>
     </td>
-    <td align="center" width="20%" valign="top">
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="top">
       <a href="https://github.com/asantinos/burnclaw">
         <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/burnclaw.webp" width="96" alt="BurnClaw" />
       </a>
@@ -68,9 +103,9 @@ When I'm not coding you'll find me out in nature or learning calisthenics. Long-
       <br />
       <sub>Windows</sub>
       <br />
-      <sub><code>v1.0.0</code></sub>
+      <sub><code>v2.0.1</code></sub>
     </td>
-    <td align="center" width="20%" valign="top">
+    <td align="center" width="25%" valign="top">
       <a href="https://dittotalks.com">
         <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/ditto.webp" width="96" alt="Ditto" />
       </a>
@@ -79,9 +114,9 @@ When I'm not coding you'll find me out in nature or learning calisthenics. Long-
       <br />
       <sub>Windows</sub>
       <br />
-      <sub><code>v1.0.0</code></sub>
+      <sub><code>v1.1.0</code></sub>
     </td>
-    <td align="center" width="20%" valign="top">
+    <td align="center" width="25%" valign="top">
       <a href="https://monked.asantinos.com">
         <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/monked.webp" width="96" alt="Monked" />
       </a>
@@ -92,7 +127,7 @@ When I'm not coding you'll find me out in nature or learning calisthenics. Long-
       <br />
       <sub><code>v1.0.0</code></sub>
     </td>
-    <td align="center" width="20%" valign="top">
+    <td align="center" width="25%" valign="top">
       <a href="https://stride.asantinos.com">
         <img src="https://raw.githubusercontent.com/asantinos/asantinos/main/assets/stride.webp" width="96" alt="Stride" />
       </a>
@@ -118,6 +153,7 @@ What I build with.
 
 ### Web
 
+<!-- Quita la tecnología que ya no aparece en tu web (allí hay 9) -->
 <p>
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="36" alt="Astro" />
   &nbsp;&nbsp;
@@ -176,6 +212,8 @@ What I build with.
 
 &nbsp;
 
+<sub>Let's build something together → <a href="mailto:hello@asantinos.com"><strong>hello@asantinos.com</strong></a></sub>
+<br />
 <sub>More at <a href="https://asantinos.com"><strong>asantinos.com</strong></a></sub>
 
 &nbsp;
